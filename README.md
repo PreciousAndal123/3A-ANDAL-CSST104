@@ -40,7 +40,7 @@ Goal: Understand the basic concepts of linear regression and learn how to apply 
 
 Description: This exercise builds upon Exercise 1 by exploring more advanced techniques and applications of linear regression.
 
-Goal: Deepen your understanding of linear regression and its practical implications through additional exercises.
+Goal: Deepen our understanding of linear regression and its practical implications through additional exercises.
 
 <a href="Compilation/Compilation/3A-ANDAL-EXER2.ipynb">Link to Exercise 2</a>
 
