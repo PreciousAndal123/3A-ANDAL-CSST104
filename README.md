@@ -2,17 +2,17 @@
 
 # **Table of Contents**
 
-1. <a href="3A-ANDAL-EXER1.ipynb">Introduction</a>
-2. <a href="3A-ANDAL-EXER1.ipynb">Exercises</a>
-3. <a href="3A-ANDAL-EXER1.ipynb">Exercise 1: Linear Regression</a>
-4. <a href="3A-ANDAL-EXER1.ipynb">Exercise 2: Linear Regression</a>
-5. <a href="3A-ANDAL-EXER1.ipynb">Exercise 3: Multiple Linear Regression</a>
-6. <a href="3A-ANDAL-EXER1.ipynb">Exercise 4: Logistic Regression</a>
-7. <a href="3A-ANDAL-EXER1.ipynb">Exercise 5: Bank Customer</a>
-8. <a href="3A-ANDAL-EXER1.ipynb">Exercise 6: Predicting Feedback on Online Food Orders Using Logistic Regression</a>
-9. <a href="3A-ANDAL-EXER1.ipynb">Exercise 7: Netflix Userbase Analysis</a>
-10. <a href="3A-ANDAL-EXER1.ipynb">Exercise 8: Pollution Data Time Series Analysis Using ARIMA</a>
-11. <a href="3A-ANDAL-EXER1.ipynb">Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model</a>
+1. <a href="Introduction">Introduction</a>
+2. <a href="Exercises">Exercises</a>
+3. <a href="Compilation/Compilation/3A-ANDAL-EXER1.ipynb">Exercise 1: Linear Regression</a>
+4. <a href="3A-ANDAL-EXER2.ipynb">Exercise 2: Linear Regression</a>
+5. <a href="3A-ANDAL-EXER3.ipynb">Exercise 3: Multiple Linear Regression</a>
+6. <a href="3A-ANDAL-EXER4.ipynb">Exercise 4: Logistic Regression</a>
+7. <a href="3A-ANDAL-EXER5.ipynb">Exercise 5: Bank Customer</a>
+8. <a href="3A-ANDAL-EXER6.ipynb">Exercise 6: Predicting Feedback on Online Food Orders Using Logistic Regression</a>
+9. <a href="3A-ANDAL-EXER7.ipynb">Exercise 7: Netflix Userbase Analysis</a>
+10. <a href="3A-ANDAL-EXER8.ipynb">Exercise 8: Pollution Data Time Series Analysis Using ARIMA</a>
+11. <a href="3A-ANDAL-MIDTERM.ipynb">Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model</a>
 
 # **Introduction**
 
