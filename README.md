@@ -1,4 +1,4 @@
-<iframe src="index.html" width="100%" height="500px"></iframe>
+<iframe src="template/templatemo_485_rainbow/index.html" width="100%" height="500px"></iframe>
 
 
 # **CSST104: Advanced Machine Learning Exercises and Midterm Exam Compilation**
