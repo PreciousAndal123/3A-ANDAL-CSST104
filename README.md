@@ -32,7 +32,7 @@ Description: In this exercise, we implemented a simple linear regression to pred
 
 Goal: Understand the basic concepts of linear regression and learn how to apply them to real-world datasets.
 
-<a href="template/templatemo_485_rainbow/3A-ANDAL-EXER1.ipynb">Link to Exercise 1</a>
+<a href="Compilation/Compilation/3A-ANDAL-EXER1.ipynb">Link to Exercise 1</a>
 
 # **Exercise 2: Linear Regression**
 
