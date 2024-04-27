@@ -14,11 +14,11 @@
 10. <a href="">Exercise 8: Pollution Data Time Series Analysis Using ARIMA</a>
 11. <a href="">Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model</a>
 
-**Introduction**
+# **Introduction**
 
 Welcome to the compilation of exercises and the midterm exam for the Machine Learning subject. This compilation includes practical exercises and a midterm exam designed to reinforce our understanding of various machine learning concepts and techniques. Each exercise is designed to provide hands-on experience with different machine learning algorithms and applications.
 
-**Exercises**
+# **Exercises**
 
 **Exercise 1: Linear Regression**
 
