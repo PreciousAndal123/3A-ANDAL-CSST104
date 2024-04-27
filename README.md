@@ -1,6 +1,6 @@
 # **CSST104: Advanced Machine Learning Exercises and Midterm Exam Compilation**
 
-**Table of Contents**
+# **Table of Contents**
 
 1. <a href="">Introduction</a>
 2. <a href="">Exercises</a>
@@ -20,7 +20,7 @@ Welcome to the compilation of exercises and the midterm exam for the Machine Lea
 
 # **Exercises**
 
-**Exercise 1: Linear Regression**
+# **Exercise 1: Linear Regression**
 
 Description: In this exercise, we implemented a simple linear regression to predict a continuous target variable based on a single predictor variable.
 
@@ -28,7 +28,7 @@ Goal: Understand the basic concepts of linear regression and learn how to apply 
 
 <a href="">Link to Exercise 1</a>
 
-**Exercise 2: Linear Regression**
+# **Exercise 2: Linear Regression**
 
 Description: This exercise builds upon Exercise 1 by exploring more advanced techniques and applications of linear regression.
 
@@ -36,7 +36,7 @@ Goal: Deepen your understanding of linear regression and its practical implicati
 
 <a href="">Link to Exercise 2</a>
 
-**Exercise 3: Multiple Linear Regression**
+# **Exercise 3: Multiple Linear Regression**
 
 Description: Extend our knowledge of linear regression to handle multiple predictor variables simultaneously.
 
@@ -44,7 +44,7 @@ Goal: Learn how to model relationships between multiple input variables and a co
 
 <a href="">Link to Exercise 3</a>
 
-**Exercise 4: Logistic Regression**
+# **Exercise 4: Logistic Regression**
 
 Description: Explore logistic regression, a classification algorithm used to model the probability of a binary outcome.
 
@@ -52,7 +52,7 @@ Goal: Understand the principles of logistic regression and apply them to classif
 
 <a href="">Link to Exercise 4</a>
 
-**Exercise 5: Bank Customer**
+# **Exercise 5: Bank Customer**
 
 Description: Apply logistic regression to predict.
 
@@ -60,7 +60,7 @@ Goal: Gain experience in using logistic regression for real-world applications s
 
 <a href="">Link to Exercise 5</a>
 
-**Exercise 6: Predicting Feedback on Online Food Orders Using Logistic Regression**
+# **Exercise 6: Predicting Feedback on Online Food Orders Using Logistic Regression**
 
 Description: Analyze feedback data from online food orders and build a logistic regression model to predict customer satisfaction.
 
@@ -68,7 +68,7 @@ Goal: Apply logistic regression to a novel dataset and interpret the results in 
 
 <a href="">Link to Exercise 6</a>
 
-**Exercise 7: Netflix Userbase Analysis**
+# **Exercise 7: Netflix Userbase Analysis**
 
 Description: Conduct exploratory data analysis on Netflix user data and apply machine learning techniques to gain insights into user preferences.
 
@@ -76,7 +76,7 @@ Goal: Use machine learning to analyze user behavior and improve recommendations 
 
 <a href="">Link to Exercise 7</a>
 
-**Exercise 8: Pollution Data Time Series Analysis Using ARIMA**
+# **Exercise 8: Pollution Data Time Series Analysis Using ARIMA**
 
 Description: Explore time series analysis techniques with ARIMA models using pollution data.
 
@@ -84,7 +84,7 @@ Goal: Understand the fundamentals of time series analysis and forecasting and ap
 
 <a href="">Link to Exercise 8</a>
 
-**Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model**
+# **Midterm Exam: Time Series Analysis and Forecasting with ARIMA Model**
 
 Description: The midterm exam focuses on time series analysis and forecasting using the ARIMA model.
 
